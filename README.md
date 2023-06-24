@@ -26,13 +26,7 @@ Veamos algunas diferencias y características clave de las variables y tipos en 
 3. Tipos primitivos y personalizados:
    TypeScript admite los tipos de datos primitivos de JavaScript, como `number`, `string`, `boolean`, `null` y `undefined`. Además, también puedes definir tus propios tipos personalizados mediante interfaces o tipos de datos.
 
-4. Anotaciones de tipo:
-   En TypeScript, puedes utilizar anotaciones de tipo para especificar los tipos de los parámetros de función y los valores de retorno. Esto ayuda a mejorar la claridad y la seguridad del código.
-
-5. Enumeraciones:
-   TypeScript proporciona el concepto de enumeraciones, que permite definir un conjunto de valores constantes con nombres descriptivos. Esto ayuda a mejorar la legibilidad y la mantenibilidad del código.
-
-6. Tipo "any":
+4. Tipo "any":
    TypeScript incluye el tipo especial `any`, que permite asignar cualquier tipo de valor a una variable sin realizar verificaciones de tipo. Es útil cuando se trabaja con código JavaScript existente o cuando se necesita flexibilidad en los tipos.
 
-Estas son solo algunas de las diferencias y características clave en relación con las variables y tipos en TypeScript en comparación con JavaScript. En general, TypeScript proporciona un sistema de tipos estático opcional que brinda beneficios en términos de seguridad, detección de errores temprana y mantenibilidad del código.
+Estas fueron ejemplos de las diferencias y características clave en relación con las variables y tipos en TypeScript en comparación con JavaScript. En general, TypeScript proporciona un sistema de tipos estático opcional que brinda beneficios en términos de seguridad, detección de errores temprana y mantenibilidad del código.
