@@ -18,7 +18,7 @@ Veamos algunas diferencias y características clave de las variables y tipos en 
    TypeScript también tiene la capacidad de inferir el tipo de una variable en función del valor asignado. Por ejemplo:
 
    ```typescript
-   let count = 5; // TypeScript infiere que count es de tipo numerico (int,etc)
+   let count = 5; // TypeScript infiere que count es de tipo numérico (int,etc)
    ```
 
    En este caso, TypeScript deduce que la variable `count` es de tipo `number` porque se le asigna el valor `5`.
