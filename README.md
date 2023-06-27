@@ -73,6 +73,8 @@ Lo anterior fueron ejemplos de clases primitivas, pero les dejo una lista comple
    - `Exclude<T, U>`: excluye los tipos de `U` de `T`.
    - `Omit<T, K>`: omite las propiedades del tipo `T` especificadas por las claves (`K`).
    - `NonNullable<T>`: excluye `null` y `undefined` de `T`.
+  
+Pueden ver ejemplos de estos tipos en este link: [Enlace a Ejemplos](https://github.com/nicodonazzon/example-types/tree/main)
 
 Creando tipos personalizados:
 
